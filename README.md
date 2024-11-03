@@ -2,5 +2,5 @@ A simple game whose goal is to challenge players who have the ability to manage 
 The winner is the one with a business mind that balances income, sustainability and smoothness. It seems simple and easy from the outside, but it is not that simple. It requires a lot of planning, strategy and thinking.
 Enjoy
 
-"A little AI was used to sorting and correct some errors"
-"But the idea and the code was written by me"
+"A little AI was used to sorting and correct some errors
+But the idea and the code was written by me"
